@@ -1,6 +1,4 @@
 # Heart-Failure-Data-Analysis
-Survival analysis of heart failure patients.
-
 ## Overview
 The report analyzes data from 299 heart failure patients admitted to a hospital in Pakistan during 2015. The goal was to predict patient survival using machine learning models.
 
